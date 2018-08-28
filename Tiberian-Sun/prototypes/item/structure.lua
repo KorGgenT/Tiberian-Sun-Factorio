@@ -1,3 +1,7 @@
+--[[
+This file contains all structures. A structure is any entity that you place in the world and is static. The entity prototypes will be found in the entity folder.
+]]--
+
 local icon_loc = "__Tiberian-Sun__/graphics/icons/item/"
 
 data:extend({
