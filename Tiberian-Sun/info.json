@@ -1,0 +1,10 @@
+{
+  "name": "Tiberian-Sun",
+  "version": "0.1.0",
+  "title": "Tiberian Sun Mod",
+  "author": "KorGgenT, TGS",
+  "contact": "korggent@hotmail.com",
+  "factorio_version": "0.16",
+  "website": "https://github.com/KorGgenT/Tiberian-Sun-Factorio",
+  "description": "Adds Tiberian Sun units and structures to factorio"
+}
